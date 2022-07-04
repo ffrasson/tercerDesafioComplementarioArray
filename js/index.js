@@ -5,7 +5,7 @@ let valorDos = 20000;
 let valorTres = 30000;
 
 let nombreUsuario = prompt('Ingrese su nombre de usuario: '); // El usuario ingresa su nombre
-alert(`Hola ${nombreUsuario.toUpperCase()} Bienvenido/a a nuestro sistema de alquiler de MotorHomes - LocoCamperAr`); // mensaje de bienvenida
+alert(`Hola ${nombreUsuario.toUpperCase()} Bienvenidos/as a SurfersTI, este es nuestro sistema de alquiler de MotorHomes - LocoCamperAr`); // mensaje de bienvenida
 
 // Listas
 class Usuario {
